@@ -1,5 +1,0 @@
-requests>=2.31.0
-beautifulsoup4>=4.12.3
-tqdm>=4.66.2
-markdown>=3.5.1
-lxml>=5.2.1
