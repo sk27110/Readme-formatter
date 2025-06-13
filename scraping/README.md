@@ -5,17 +5,11 @@
 scraping/  
 
 ├── utils/  
-
 │   ├── __init__.py  
-
 │   ├── scrape_topics.py  
-
 │   ├── scrape_links.py  
-
 │   ├── scrape_readme.py  
-
 │   ├── scrape_readme_parallel.py  
-
 ├── main.py
 
 ### О сборе данных
